@@ -1,0 +1,6 @@
+projectKey=com.dairujie:api
+serverUrl=http://localhost:9000
+serverVersion=7.5.0.20543
+dashboardUrl=http://localhost:9000/dashboard?id=com.dairujie%3Aapi
+ceTaskId=AWhl6H7x3UX8jyFkc6uL
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWhl6H7x3UX8jyFkc6uL
